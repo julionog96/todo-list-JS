@@ -1,4 +1,5 @@
 import Todo from './Todo.jsx';
+import './Todo.scss'
 
 function TodosList() {
 
